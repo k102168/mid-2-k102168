@@ -1,0 +1,16 @@
+{
+  "name": "file_upload",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.10.2",
+    "multer": "~0.1.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "File-upload-in-Node ===================",
+  "main": "Server.js",
+  "devDependencies": {},
+  "author": "owais",
+  "license": "ISC"
+}
